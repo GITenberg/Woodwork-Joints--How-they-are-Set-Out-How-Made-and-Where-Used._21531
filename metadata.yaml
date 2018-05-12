@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '24767'
     url: http://www.gutenberg.org/2009/agents/24767
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21531#Woodwork-Joints--How-they-are-Set-Out-How-Made-and-Where-Used.
 gutenberg_bookshelf:
 - Technology
 - Woodwork
