@@ -1,0 +1,29 @@
+_repo: Woodwork-Joints--How-they-are-Set-Out-How-Made-and-Where-Used._21531
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fairham, William
+    gutenberg_agent_id: '24767'
+    url: http://www.gutenberg.org/2009/agents/24767
+description: ''
+gutenberg_bookshelf:
+- Technology
+- Woodwork
+- Crafts
+gutenberg_issued: '2007-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21531'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TT'
+- !lcsh 'Carpentry'
+- !lcsh 'Woodwork'
+title: 'Woodwork Joints: How They Are Set Out, How Made and Where Used.'
+url: http://www.gutenberg.org/ebooks/21531
